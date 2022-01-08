@@ -1,0 +1,518 @@
+级别：信息 进程：startdde 时间：2022-01-08 21:21:46 信息：checker.go:293: process memory: /etc/xdg/autostart/pulseaudio.desktop 2@dde/uiapps/11 0 open /sys/fs/cgroup/memory/2@dde/uiapps/11/cgroup.procs: no such file or directory 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:46 信息：checker.go:293: process memory: /etc/xdg/autostart/xdg-user-dirs.desktop 2@dde/uiapps/8 0 open /sys/fs/cgroup/memory/2@dde/uiapps/8/cgroup.procs: no such file or directory 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:46 信息：checker.go:293: process memory: /etc/xdg/autostart/deepin-ab-recovery.desktop 2@dde/uiapps/9 0 open /sys/fs/cgroup/memory/2@dde/uiapps/9/cgroup.procs: no such file or directory 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:46 信息：checker.go:293: process memory: /etc/xdg/autostart/im-launch.desktop 2@dde/uiapps/5 0 open /sys/fs/cgroup/memory/2@dde/uiapps/5/cgroup.procs: no such file or directory 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:44 信息：window_info.go:444: id: 100663306, wmClass: "deepin-log-viewer" "deepin-log-viewer", wmState: [], wmWindowType: [399], wmAllowedActions: [522 523 498 524 526 527 528 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:43 信息：startmanager.go:711: current appId is deepin-log-viewer 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：uengine 时间：2022-01-08 21:21:40 信息：Get cur system locale fails. 主机名：deepin-PC 进程号：5004 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:38 信息：run-user-116.mount: Succeeded. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:38 信息：run-user-116-gvfs.mount: Succeeded. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:35 信息：[session uid=1000 pid=4848] Successfully activated service 'com.deepin.dde.Launcher' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:34 信息：startmanager.go:711: current appId is dde-launcher 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:34 信息：[session uid=1000 pid=4848] Activating service name='com.deepin.dde.Launcher' requested by ':1.34' (uid=1000 pid=5148 comm="/usr/bin/dde-dock -r ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:34 信息：startmanager.go:711: current appId is /etc/xdg/autostart/sogoupinyin-watchdog 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:33 信息：startmanager.go:711: current appId is /etc/xdg/autostart/sogoupinyin-service 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:33 信息：Reloading. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:33 信息：Reloading. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/dde-clipboard 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/deepin-system-monitor-plugin-popup 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/pulseaudio 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/dde-printer-watch 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:31 信息：Started Bluetooth OBEX service. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:31 信息：[session uid=1000 pid=4848] Successfully activated service 'org.bluez.obex' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/xdg-user-dirs 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/at-spi-dbus-bus 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/deepin-ab-recovery 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：obexd 时间：2022-01-08 21:21:31 信息：OBEX daemon 5.50 主机名：deepin-PC 进程号：5977 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/im-launch 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/dde-calendar-service 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/deepin-system-monitor-daemon 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:31 信息：Starting Bluetooth OBEX service... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：startmanager.go:711: current appId is /etc/xdg/autostart/com.deepin.deepinid 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:31 信息：[session uid=1000 pid=4848] Activating via systemd: service name='org.bluez.obex' unit='obex.service' requested by ':1.11' (uid=1000 pid=4951 comm="/usr/lib/deepin-daemon/dde-session-daemon ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：main.go:384: iowait disabled 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:31 信息：session_process.go:60: start dde-session-daemon part2 cost: 1.635439666s 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:31 信息：loader.go:193: enable modules done, cost add up to 1.634623807s 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:31 信息：loader.go:181: enable module bluetooth done cost 1.633390693s 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:31 信息：loader.go:173: module bluetooth wait done, cost 1.632199497s 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:31 信息：loader.go:181: enable module audio done cost 1.632792265s 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:31 信息：manager_device.go:143: ignore virtual network interface which driver is veth /org/freedesktop/NetworkManager/Devices/6 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:31 信息：manager_device.go:143: ignore virtual network interface which driver is veth /org/freedesktop/NetworkManager/Devices/5 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：module.go:136: Owner: :1.48 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:30 信息：Started Sound Service. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:30 信息：[session uid=1000 pid=4848] Successfully activated service 'ca.desrt.dconf' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:30 信息：[session uid=1000 pid=4848] Activating service name='ca.desrt.dconf' requested by ':1.31' (uid=1000 pid=5148 comm="/usr/bin/dde-dock -r ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module appearance done cost 448.089013ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:30 信息：[session uid=1000 pid=4848] Successfully activated service 'com.deepin.api.CursorHelper' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:30 信息：[session uid=1000 pid=4848] Activating service name='com.deepin.api.CursorHelper' requested by ':1.11' (uid=1000 pid=4951 comm="/usr/lib/deepin-daemon/dde-session-daemon ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：state_handler.go:285: device disconnected, type wireless, 50 => 60, reason[0] 设备状态改变 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:30 信息：[session uid=1000 pid=4848] Activated service 'com.deepin.daemon.Appearance' failed: Process com.deepin.daemon.Appearance exited with status 1 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：state_handler.go:285: device disconnected, type wireless, 110 => 30, reason[60] 激活连接操作正在等待执行 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module network done cost 321.881641ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module inputdevices done cost 292.489566ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:30 信息：[session uid=1000 pid=4848] Activating service name='com.deepin.daemon.Appearance' requested by ':1.58' (uid=1000 pid=5385 comm="/usr/lib/deepin-daemon/dde-osd ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:30 信息：color_temp.go:133: success to to set current ColorTemperature by redshift command 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:30 信息：color_temp.go:116: success to  stop  redshift.service 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:30 信息：color_temp.go:116: success to  disable  redshift.service 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module keybinding done cost 213.936333ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:30 信息：Reloading. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：submodule.go:58: submodule LidSwitchHandler start 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：screensaver.go:220: SetTimeout to  300 0 false 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：manager_device.go:143: ignore virtual network interface which driver is unknown /org/freedesktop/NetworkManager/Devices/1 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：submodule.go:58: submodule PowerSavePlan start 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module lastore done cost 96.226849ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module power done cost 71.375183ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：manager.go:209: LidIsPresent true 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module gesture done cost 52.981792ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module power wait done, cost 53.121354ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module screensaver done cost 53.059608ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:30 信息：Started DTK widget application launch booster. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module service-trigger done cost 50.192433ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module sessionwatcher done cost 49.622008ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module clipboard done cost 45.118719ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module mime done cost 44.799658ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module systeminfo done cost 43.984682ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：manager.go:161: initialize network 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:30 信息：Starting DTK widget application launch booster... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:30 信息：[session uid=1000 pid=4848] Activated service 'com.deepin.daemon.Appearance' failed: Process com.deepin.daemon.Appearance exited with status 1 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：info.go:158: d.info.CurrentSpeed :  3000  , d.info.CPUMaxMHz :  3000 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module screenedge done cost 4.544326ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module timedate done cost 4.195869ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：module.go:136: Owner: :1.48 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module appearance wait done, cost 250ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module systeminfo wait done, cost 401ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module uadpagent done cost 1.056572ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module uadpagent wait done, cost 241ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module network wait done, cost 160ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module timedate wait done, cost 170ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module keybinding wait done, cost 902ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module keybinding 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module gesture wait done, cost 852ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module gesture 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module bluetooth 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module mime wait done, cost 601ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module mime 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module screenedge wait done, cost 921ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module screenedge 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module housekeeping done cost 555.006µs 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module housekeeping wait done, cost 220ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module clipboard wait done, cost 1.052µs 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module clipboard 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module service-trigger wait done, cost 180ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:181: enable module grub-gfx done cost 34.976µs 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module grub-gfx wait done, cost 281ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module grub-gfx 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module systeminfo 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module sessionwatcher wait done, cost 180ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module sessionwatcher 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module audio wait done, cost 491ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module audio 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module network 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module uadpagent 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module timedate 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module power 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module screensaver wait done, cost 190ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module screensaver 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module service-trigger 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module inputdevices wait done, cost 310ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:173: module lastore wait done, cost 441ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module housekeeping 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module inputdevices 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module appearance 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:166: enable module lastore 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:155: topo sort done, cost add up to 239.582µs 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:30 信息：loader.go:146: build dag done, cost 208.683µs 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:30 信息：Starting Sound Service... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：uengine 时间：2022-01-08 21:21:30 信息：unlink failed! 主机名：deepin-PC 进程号：5004 
+级别：信息 进程：uengine 时间：2022-01-08 21:21:30 信息：uengine-check-runnable.sh : 0 主机名：deepin-PC 进程号：5004 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:30 信息：[session uid=1000 pid=4848] Activating service name='com.deepin.daemon.Appearance' requested by ':1.30' (uid=1000 pid=5142 comm="/opt/sogoupinyin/files/bin/sogoupinyin-service ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:30 信息：Reloading. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:30 信息：main.go:201: core components cost: 1.212774386s 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:30 信息：session_process.go:110: /usr/bin/dde-dock [-r] startup duration: 487.575567ms 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Started Virtual filesystem service - digital camera monitor. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Starting Virtual filesystem service - digital camera monitor... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.17' (uid=1000 pid=4953 comm="/usr/bin/dde-desktop ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Started Virtual filesystem service - Media Transfer Protocol monitor. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Starting Virtual filesystem service - Media Transfer Protocol monitor... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.17' (uid=1000 pid=4953 comm="/usr/bin/dde-desktop ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Started Virtual filesystem service - Apple File Conduit monitor. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activated service 'com.deepin.dde.Notification' failed: Process com.deepin.dde.Notification exited with status 255 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Starting Virtual filesystem service - Apple File Conduit monitor... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.17' (uid=1000 pid=4953 comm="/usr/bin/dde-desktop ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Started Virtual filesystem service - GNOME Online Accounts monitor. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Starting Virtual filesystem service - GNOME Online Accounts monitor... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.17' (uid=1000 pid=4953 comm="/usr/bin/dde-desktop ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Started Virtual filesystem service - disk device monitor. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating service name='com.deepin.dde.Notification' requested by ':1.38' (uid=1000 pid=5004 comm="/usr/bin/uengine session-manager --app-etc=/usr/sh") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activated service 'com.deepin.daemon.Timedate' failed: Process com.deepin.daemon.Timedate exited with status 1 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Starting Virtual filesystem service - disk device monitor... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.17' (uid=1000 pid=4953 comm="/usr/bin/dde-desktop ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating service name='com.deepin.daemon.Timedate' requested by ':1.38' (uid=1000 pid=5004 comm="/usr/bin/uengine session-manager --app-etc=/usr/sh") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Successfully activated service 'com.deepin.daemon.LangSelector' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating service name='com.deepin.daemon.LangSelector' requested by ':1.38' (uid=1000 pid=5004 comm="/usr/bin/uengine session-manager --app-etc=/usr/sh") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Started BAMF Application Matcher Framework. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Successfully activated service 'org.ayatana.bamf' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:29 信息：main.go:244: after 947.131114ms, call com.deepin.dde.Dock callShow 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activated service 'com.deepin.dde.Launcher' failed: Process com.deepin.dde.Launcher exited with status 1 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating service name='com.deepin.dde.Launcher' requested by ':1.34' (uid=1000 pid=5148 comm="/usr/bin/dde-dock -r ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:29 信息：session_process.go:110: /usr/bin/kwin_no_scale [] startup duration: 807.64439ms 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:29 信息：Starting BAMF Application Matcher Framework... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating via systemd: service name='org.ayatana.bamf' unit='bamfdaemon.service' requested by ':1.11' (uid=1000 pid=4951 comm="/usr/lib/deepin-daemon/dde-session-daemon ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:29 信息：session_process.go:91: command /usr/bin/dde-dock [-r] started, pid: 5148 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:29 信息：session_process.go:110: /usr/lib/deepin-daemon/dde-session-daemon [] startup duration: 724.084289ms 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:29 信息：loader.go:193: enable modules done, cost add up to 588.495141ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:29 信息：loader.go:181: enable module launcher done cost 588.143929ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Successfully activated service 'org.kde.kglobalaccel' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating service name='org.kde.kglobalaccel' requested by ':1.23' (uid=1000 pid=4996 comm="kwin_x11 -platform dde-kwin-xcb:appFilePath=/usr/b") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Successfully activated service 'com.deepin.wm' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:29 信息：[session uid=1000 pid=4848] Activating service name='com.deepin.wm' requested by ':1.18' (uid=1000 pid=4953 comm="/usr/bin/dde-desktop ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:29 信息：session_process.go:110: /usr/bin/dde-desktop [] startup duration: 253.374584ms 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:181: enable module dock done cost 31.337993ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:181: enable module trayicon done cost 3.55932ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:181: enable module x-event-monitor done cost 1.981665ms 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:173: module dock wait done, cost 431ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:173: module x-event-monitor wait done, cost 260ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:173: module trayicon wait done, cost 301ns 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:173: module launcher wait done, cost 1.002µs 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:166: enable module launcher 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:166: enable module x-event-monitor 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:166: enable module trayicon 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:166: enable module dock 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:155: topo sort done, cost add up to 46.979µs 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：loader.go:146: build dag done, cost 17.754µs 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:21:28 信息：main.go:231: App log level: 主机名：deepin-PC 进程号：4951 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Started Accessibility services bus. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:28 信息：[session uid=1000 pid=4848] Successfully activated service 'org.a11y.Bus' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Starting Accessibility services bus... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:28 信息：[session uid=1000 pid=4848] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.12' (uid=1000 pid=4951 comm="/usr/lib/deepin-daemon/dde-session-daemon ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:28 信息：[session uid=1000 pid=4848] Activated service 'org.freedesktop.Notifications' failed: Process org.freedesktop.Notifications exited with status 255 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:28 信息：session_process.go:91: command /usr/bin/dde-desktop [] started, pid: 4953 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:28 信息：session_process.go:91: command /usr/lib/deepin-daemon/dde-session-daemon [] started, pid: 4951 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:28 信息：session_process.go:91: command /usr/bin/kwin_no_scale [] started, pid: 4950 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:28 信息：[session uid=1000 pid=4848] Activating service name='org.freedesktop.Notifications' requested by ':1.5' (uid=1000 pid=4905 comm="/usr/bin/fcitx -d ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：startdde 时间：2022-01-08 21:21:28 信息：session.go:686: session path: /org/freedesktop/login1/session/_32 主机名：deepin-PC 进程号：4834 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Started Virtual filesystem service. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:28 信息：[session uid=1000 pid=4848] Successfully activated service 'org.gtk.vfs.Daemon' 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Starting Virtual filesystem service... 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 21:21:28 信息：[session uid=1000 pid=4848] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.4' (uid=1000 pid=4907 comm="/usr/bin/fcitx-gsettingtool ") 主机名：deepin-PC 进程号：4848 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Started D-Bus User Message Bus. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Startup finished in 63ms. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Reached target Default. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Reached target Basic System. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Reached target Sockets. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Listening on D-Bus User Message Bus Socket. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Listening on GnuPG cryptographic agent and passphrase cache (restricted). 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers). 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Listening on GnuPG cryptographic agent (ssh-agent emulation). 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Listening on Sound System. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Reached target Paths. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Listening on GnuPG network certificate management daemon. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Reached target Timers. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Listening on GnuPG cryptographic agent and passphrase cache. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：systemd 时间：2022-01-08 21:21:28 信息：Starting D-Bus User Message Bus Socket. 主机名：deepin-PC 进程号：4818 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:13:27 信息：window_info.go:444: id: 127926425, wmClass: "dde-control-center" "dde-control-center", wmState: [], wmWindowType: [399], wmAllowedActions: [522 523 498 524 526 527 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:13:27 信息：window_info.go:444: id: 127926422, wmClass: "dde-control-center" "dde-control-center", wmState: [], wmWindowType: [399], wmAllowedActions: [522 523 498 524 526 527 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:12:14 信息：utils.go:76: DPMS On 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:12:14 信息：power_save_plan.go:671: HandleIdleOff 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:01:47 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:01:47 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:01:47 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:01:46 信息：screensaver.go:108: sender :1.647 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 21:01:46 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:59:39 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:59:39 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:59:39 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:55:14 信息：screensaver.go:108: sender :1.645 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:55:14 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:53:01 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:53:01 信息：screensaver.go:146: recover from  &{900 0 false} 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:53:01 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:53:01 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:52:22 信息：screensaver.go:170: Current is inhibit state, the value &{900 0 false} will apply when in unhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:52:16 信息：screensaver.go:170: Current is inhibit state, the value &{300 0 false} will apply when in unhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:52:04 信息：window_info.go:444: id: 127926404, wmClass: "dde-control-center" "dde-control-center", wmState: [], wmWindowType: [399], wmAllowedActions: [522 523 498 524 526 527 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:51:09 信息：screensaver.go:108: sender :1.640 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:51:09 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:51:02 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:51:02 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:51:02 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 20:20:17 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.daemon.LangSelector' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 20:20:17 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.daemon.LangSelector' requested by ':1.636' (uid=1000 pid=14250 comm="dde-control-center --show ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:20:03 信息：window_info.go:444: id: 127926282, wmClass: "dde-control-center" "dde-control-center", wmState: [377 376], wmWindowType: [399], wmAllowedActions: [522 523 498 524 526 527 528 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 20:20:03 信息：startmanager.go:711: current appId is dde-control-center 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:19:50 信息：screensaver.go:108: sender :1.633 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:19:50 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:18:54 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:18:54 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:18:54 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:18:37 信息：screensaver.go:108: sender :1.631 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:18:37 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:17:42 信息：utils.go:76: DPMS On 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 20:17:42 信息：power_save_plan.go:671: HandleIdleOff 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:54:19 信息：utils.go:91: DPMS Off 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:54:19 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:54:19 信息：power_save_plan.go:534: Screen full black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:54:14 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:54:14 信息：power_save_plan.go:507: Start screen black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:54:14 信息：power_save_plan.go:623: HandleIdleOn 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:39:12 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:39:12 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:39:12 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:30:55 信息：screensaver.go:108: sender :1.620 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:30:55 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:30:46 信息：utils.go:76: DPMS On 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 19:30:46 信息：power_save_plan.go:671: HandleIdleOff 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 18:33:08 信息：utils.go:91: DPMS Off 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 18:33:07 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 18:33:07 信息：power_save_plan.go:534: Screen full black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 18:33:02 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 18:33:02 信息：power_save_plan.go:507: Start screen black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 18:33:02 信息：power_save_plan.go:623: HandleIdleOn 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 18:17:47 信息：utils.go:76: DPMS On 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 18:17:47 信息：power_save_plan.go:671: HandleIdleOff 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 17:51:11 信息：utils.go:91: DPMS Off 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 17:51:10 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 17:51:10 信息：power_save_plan.go:534: Screen full black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 17:51:05 信息：power_save_plan.go:507: Start screen black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 17:51:05 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 17:51:05 信息：power_save_plan.go:623: HandleIdleOn 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 17:36:20 信息：checker.go:293: process memory: /bin/sh -c /usr/bin/setxkbmap -option grab:break_actions&&/usr/bin/xdotool key XF86Ungrab&&dbus-send --print-reply --dest=com.deepin.dde.lockFront /com/deepin/dde/lockFront com.deepin.dde.lockFront.Show 2@dde/uiapps/74 0 open /sys/fs/cgroup/memory/2@dde/uiapps/74/cgroup.procs: no such file or directory 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 17:35:27 信息：utils.go:76: DPMS On 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 17:35:27 信息：power_save_plan.go:671: HandleIdleOff 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 16:10:34 信息：utils.go:91: DPMS Off 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 16:10:34 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 16:10:34 信息：power_save_plan.go:534: Screen full black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 16:10:29 信息：power_save_plan.go:507: Start screen black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 16:10:29 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 16:10:29 信息：power_save_plan.go:623: HandleIdleOn 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:44 信息：checker.go:293: process memory: /bin/sh -c /usr/bin/setxkbmap -option grab:break_actions&&/usr/bin/xdotool key XF86Ungrab&&dbus-send --print-reply --dest=com.deepin.dde.lockFront /com/deepin/dde/lockFront com.deepin.dde.lockFront.Show 2@dde/uiapps/73 0 open /sys/fs/cgroup/memory/2@dde/uiapps/73/cgroup.procs: no such file or directory 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:55:18 信息：utils.go:76: DPMS On 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:55:18 信息：power_save_plan.go:671: HandleIdleOff 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:18 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:18 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:18 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:16 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:16 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:16 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:14 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:14 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:14 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:12 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:11 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:11 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:10 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:09 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:09 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:07 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:07 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:07 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:05 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:05 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:05 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:03 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:03 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:03 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:01 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:55:01 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:55:01 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:59 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:54:58 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:58 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:57 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:54:56 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:56 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:54 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:54:54 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:54 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:52 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:54:52 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:52 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:50 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:54:50 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:50 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:54:49 信息：utils.go:91: DPMS Off 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:54:49 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:54:49 信息：power_save_plan.go:534: Screen full black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:48 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:54:48 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:48 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:46 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.dde.lockFront' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:46 信息：[session uid=1000 pid=3627] Successfully activated service 'com.deepin.daemon.SoundEffect' 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：startdde 时间：2022-01-08 15:54:45 信息：startmanager.go:711: current appId is dde-lock 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:45 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.dde.lockFront' requested by ':1.9' (uid=1000 pid=3613 comm="/usr/bin/startdde ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dbus-daemon 时间：2022-01-08 15:54:45 信息：[session uid=1000 pid=3627] Activating service name='com.deepin.daemon.SoundEffect' requested by ':1.62' (uid=1000 pid=4266 comm="/usr/lib/deepin-daemon/dde-osd ") 主机名：deepin-PC 进程号：3627 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:54:44 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:54:44 信息：power_save_plan.go:507: Start screen black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:54:44 信息：power_save_plan.go:623: HandleIdleOn 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:38:35 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:38:35 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:38:35 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:11:10 信息：screensaver.go:108: sender :1.460 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:11:10 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:09:49 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:09:49 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 15:09:49 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:57:18 信息：screensaver.go:108: sender :1.455 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:57:18 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:53:43 信息：dock_manager_entries.go:165: removeAppEntry id: e28T61d9207b 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:53:43 信息：status-notifier-watcher.go:141: item :1.435 lost 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:53:43 信息：dock_manager_entries.go:165: removeAppEntry id: e23T61d90c60 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:53:41 信息：dock_manager_entries.go:165: removeAppEntry id: e24T61d90d19 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:53:29 信息：window_info.go:444: id: 102760634, wmClass: "dde-file-manager" "dde-file-manager", wmState: [], wmWindowType: [399], wmAllowedActions: [522 523 498 524 526 527 528 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 14:53:28 信息：startmanager.go:711: current appId is dde-file-manager 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:43:48 信息：utils.go:76: DPMS On 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:43:48 信息：power_save_plan.go:671: HandleIdleOff 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:27:03 信息：utils.go:91: DPMS Off 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:27:03 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:27:03 信息：power_save_plan.go:534: Screen full black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:26:58 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:26:58 信息：power_save_plan.go:507: Start screen black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 14:26:58 信息：power_save_plan.go:623: HandleIdleOn 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:26:19 信息：traymanager.go:398: Add tray icon 136314892 name: "lx-music-desktop" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:26:19 信息：traymanager.go:398: Add tray icon 136314888 name: "lx-music-desktop" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:26:19 信息：window_info.go:444: id: 134217729, wmClass: "lx-music-desktop" "lx-music-desktop", wmState: [], wmWindowType: [399], wmAllowedActions: [522 498 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:25:58 信息：status-notifier-watcher.go:141: item :1.434 lost 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:25:54 信息：dock_manager_entries.go:165: removeAppEntry id: e27T61d9205f 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:25:51 信息：traymanager.go:398: Add tray icon 136314892 name: "lx-music-desktop" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:25:51 信息：traymanager.go:398: Add tray icon 136314888 name: "lx-music-desktop" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:25:51 信息：window_info.go:444: id: 134217729, wmClass: "lx-music-desktop" "lx-music-desktop", wmState: [], wmWindowType: [399], wmAllowedActions: [522 498 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:25:21 信息：dock_manager_entries.go:165: removeAppEntry id: e26T61d91fc9 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:25:21 信息：status-notifier-watcher.go:141: item :1.433 lost 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:23:21 信息：traymanager.go:398: Add tray icon 136314892 name: "lx-music-desktop" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:23:21 信息：traymanager.go:398: Add tray icon 136314888 name: "lx-music-desktop" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:23:21 信息：window_info.go:444: id: 134217729, wmClass: "lx-music-desktop" "lx-music-desktop", wmState: [], wmWindowType: [399], wmAllowedActions: [522 498 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:23:11 信息：status-notifier-watcher.go:141: item :1.428 lost 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:23:11 信息：dock_manager_entries.go:165: removeAppEntry id: e25T61d91eb0 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 13:19:12 信息：startmanager.go:711: current appId is com.browser.softedge.stable 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:18:40 信息：window_info.go:444: id: 134217729, wmClass: "lx-music-desktop" "lx-music-desktop", wmState: [], wmWindowType: [399], wmAllowedActions: [522 498 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:18:40 信息：traymanager.go:398: Add tray icon 136314892 name: "lx-music-desktop" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:18:40 信息：traymanager.go:398: Add tray icon 136314888 name: "lx-music-desktop" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 13:18:38 信息：startmanager.go:711: current appId is lx-music-desktop 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:17:33 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:17:33 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:17:33 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:15:31 信息：screensaver.go:108: sender :1.426 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:15:31 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:15:23 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:15:23 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:15:23 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:14:09 信息：screensaver.go:108: sender :1.424 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:14:09 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:13:55 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:13:55 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:13:55 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:13:11 信息：screensaver.go:108: sender :1.423 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:13:11 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:13:04 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:13:04 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:13:04 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:12:08 信息：screensaver.go:108: sender :1.421 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:12:08 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:12:01 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:12:01 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:12:01 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:11:17 信息：screensaver.go:108: sender :1.419 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:11:17 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:11:10 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:11:10 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:11:10 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:09:54 信息：screensaver.go:108: sender :1.416 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:09:54 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:09:50 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:09:50 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:09:50 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:06:50 信息：screensaver.go:108: sender :1.414 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:06:50 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:04:49 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:04:49 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:04:49 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:04:11 信息：screensaver.go:108: sender :1.412 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:04:11 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:04:06 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:04:06 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:04:06 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:03:49 信息：screensaver.go:108: sender :1.409 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:03:49 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:03:36 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:03:36 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:03:36 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:02:06 信息：screensaver.go:108: sender :1.406 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:02:06 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:01:52 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:01:52 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 13:01:52 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:58:42 信息：screensaver.go:108: sender :1.403 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:58:42 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:58:06 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:58:06 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:58:06 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:57:22 信息：screensaver.go:108: sender :1.400 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:57:22 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:56:45 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:56:45 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:56:45 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:48:41 信息：screensaver.go:108: sender :1.397 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:48:41 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:28:17 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:28:17 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:28:17 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:23:58 信息：screensaver.go:108: sender :1.394 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:23:58 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:09:43 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:09:43 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:09:43 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:04:28 信息：screensaver.go:108: sender :1.391 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:04:28 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:03:37 信息：window_info.go:444: id: 130023434, wmClass: "deepin-system-monitor" "deepin-system-monitor", wmState: [], wmWindowType: [399], wmAllowedActions: [522 523 498 524 526 527 528 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 12:00:47 信息：checker.go:293: process memory: /bin/sh -c /usr/lib/deepin-daemon/default-terminal 2@dde/uiapps/52 0 open /sys/fs/cgroup/memory/2@dde/uiapps/52/cgroup.procs: no such file or directory 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：sudo 时间：2022-01-08 12:00:38 信息：pam_deepin_authentication(sudo:auth): 验证成功 主机名：deepin-PC 进程号：10390 
+级别：信息 进程：sudo 时间：2022-01-08 12:00:37 信息：pam_deepin_authentication(sudo:auth): 请输入密码: 主机名：deepin-PC 进程号：10390 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 12:00:32 信息：window_info.go:444: id: 127926282, wmClass: "deepin-terminal" "deepin-terminal", wmState: [], wmWindowType: [399], wmAllowedActions: [522 523 498 524 526 527 528 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 12:00:32 信息：startmanager.go:711: current appId is deepin-terminal 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:58:03 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:58:03 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:58:03 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:58:00 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:58:00 信息：screensaver.go:108: sender :1.382 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:57:50 信息：screensaver.go:108: sender :1.380 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:57:50 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:57:44 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:57:44 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:57:44 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:48:38 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:48:38 信息：screensaver.go:108: sender :1.374 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:48:32 信息：screensaver.go:108: sender :1.372 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:48:32 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:47:47 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:47:47 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:47:47 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:43:12 信息：screensaver.go:108: sender :1.368 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:43:12 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:43:09 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:43:09 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:43:09 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:42:51 信息：screensaver.go:108: sender :1.365 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:42:51 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:42:10 信息：screensaver.go:220: SetTimeout to  900 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:42:10 信息：screensaver.go:144: Enter un-inhibit state 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:42:10 信息：screensaver.go:135: "/usr/bin/microsoft-edge-stable" no need inhibit. 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:42:10 信息：screensaver.go:108: sender :1.363 "/usr/bin/microsoft-edge-stable" want system enter inhibit, because: "Video Wake Lock" 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:42:10 信息：screensaver.go:220: SetTimeout to  0 0 false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:42:03 信息：window_info.go:444: id: 104857603, wmClass: "Microsoft-edge" "microsoft-edge", wmState: [377 376], wmWindowType: [399], wmAllowedActions: [522 523 498 526 527 528 529 499], hasXEmbedInfo: false, hasWmTransientFor: false 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 11:42:03 信息：startmanager.go:711: current appId is com.browser.softedge.stable 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:36:34 信息：utils.go:76: DPMS On 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 11:36:34 信息：power_save_plan.go:671: HandleIdleOff 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 01:23:17 信息：utils.go:91: DPMS Off 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 01:23:17 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 01:23:17 信息：power_save_plan.go:534: Screen full black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 01:23:12 信息：utils.go:111: Lock Screen 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 01:23:12 信息：power_save_plan.go:507: Start screen black 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 01:23:12 信息：power_save_plan.go:623: HandleIdleOn 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：startdde 时间：2022-01-08 01:08:27 信息：checker.go:293: process memory: /bin/sh -c /usr/bin/setxkbmap -option grab:break_actions&&/usr/bin/xdotool key XF86Ungrab&&dbus-send --print-reply --dest=com.deepin.dde.lockFront /com/deepin/dde/lockFront com.deepin.dde.lockFront.Show 2@dde/uiapps/50 0 open /sys/fs/cgroup/memory/2@dde/uiapps/50/cgroup.procs: no such file or directory 主机名：deepin-PC 进程号：3613 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 01:08:01 信息：utils.go:76: DPMS On 主机名：deepin-PC 进程号：3730 
+级别：信息 进程：dde-session-dae 时间：2022-01-08 01:08:01 信息：power_save_plan.go:671: HandleIdleOff 主机名：deepin-PC 进程号：3730 
