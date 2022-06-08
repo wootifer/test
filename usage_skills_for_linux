@@ -3,3 +3,6 @@ export WINEPREFIX=$HOME/.deepinwine/Deepin-WeChat
 rm WeChatSetup.exe
 wget -t 3 -T 15 https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
 deepin-wine6-stable WeChatSetup.exe
+
+# 降低微信内存占用
+https://blog.kt286.com/post/reduce-wine-wechat-memory-usage/
