@@ -1,0 +1,5 @@
+# 更新到最新版微信
+export WINEPREFIX=$HOME/.deepinwine/Deepin-WeChat
+rm WeChatSetup.exe
+wget -t 3 -T 15 https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+deepin-wine6-stable WeChatSetup.exe
