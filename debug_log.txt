@@ -1,0 +1,295 @@
+Thu 2023-06-01 23:13:26 CST 9680 1000 1000 SIGSEGV present  /usr/bin/dde-dock                      >
+Fri 2023-06-02 20:28:33 CST 4810 1000 1000 SIGSEGV present  /usr/bin/dde-dock                      >
+
+deepin@deepin-PC:~$ coredumpctl debug 4810
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+           PID: 4810 (dde-dock)
+           UID: 1000 (deepin)
+           GID: 1000 (deepin)
+        Signal: 11 (SEGV)
+     Timestamp: Fri 2023-06-02 20:28:33 CST (6min ago)
+  Command Line: /usr/bin/dde-dock
+    Executable: /usr/bin/dde-dock
+ Control Group: /user.slice/user-1000.slice/user@1000.service/session.slice/dde-dock.service
+          Unit: user@1000.service
+     User Unit: dde-dock.service
+         Slice: user-1000.slice
+     Owner UID: 1000 (deepin)
+       Boot ID: 4dee9e7f60f44329ba0fdc32d5a38690
+    Machine ID: 691a0de559c149a5b75a843810b236e8
+      Hostname: deepin-PC
+       Storage: /var/lib/systemd/coredump/core.dde-dock.1000.4dee9e7f60f44329ba0fdc32d5a38690.4810.1685708913000000.zst (present)
+     Disk Size: 4.3M
+       Message: Process 4810 (dde-dock) of user 1000 dumped core.
+                
+                Module linux-vdso.so.1 with build-id 542b6fb04bc99e2f9ed064fca3848f9486561492
+                Module libgvfsdbus.so with build-id d4dbd5e38d4ee14ad273c4cabb4719633d4b9808
+                Module libgvfscommon.so with build-id 9272496cf0d2963402dd9527048e024e5d12f653
+                Module libgioremote-volume-monitor.so with build-id f58c2efd51c9f2205d7d07206565056db740505f
+                Module libdatrie.so.1 with build-id b237432b1583d527720d9a19c43e3729e9cfac28
+                Module libthai.so.0 with build-id 1bf441f00f27fb8de1192efe993f9ef5644c011a
+                Module libfribidi.so.0 with build-id 0b00686c777b2d4fe62eecc7f5c3747d6856effb
+                Module libpixman-1.so.0 with build-id c45e05c84f514849d79d3f6f1b4a4284adb8d11f
+                Module libpangoft2-1.0.so.0 with build-id bdd941c30dc65428f68fe769af55a84aa09e032e
+                Module libpango-1.0.so.0 with build-id 5fce6678f137715b93c1b8245bd1f421dfe5027b
+                Module libcairo.so.2 with build-id fa9bd79c41814d4a3937312ba51326c045292126
+                Module libpangocairo-1.0.so.0 with build-id 96f7abb19727a7f133f8ed8fb4bf23ca4dfe943c
+                Module libgdk_pixbuf-2.0.so.0 with build-id 88718f52f16181ab8e291eae52988bc656c30eb7
+                Module libcairo-gobject.so.2 with build-id 2479354672a81b30488dbcd976434de9052cb7f7
+                Module librsvg-2.so.2 with build-id 0b6eb1153ec539cdcae86600b534b358b8b476c3
+                Module libtrash.so with build-id 8145d6cb61f4880a90ac215a26eed6419fc959a0
+                Module libshutdown.so with build-id c481b5e507bf7b25c055163573b3ba3f026bad0d
+                Module libshow-desktop.so with build-id afd4aa918eedda2c40f0f845b37d7679d7d3c230
+                Module libshot-start-plugin.so with build-id 17110dcd4071caf2d7846b3560ad6c7c9dcc7963
+                Module liboverlay-warning.so with build-id bab0f6bdfa13723dd0679841c52b88ece1fe932b
+                Module libonboard.so with build-id d95118ccbc92721e172320f25838ef5e162168cc
+                Module libmultitasking.so with build-id 33f1e22fcf59db6e378f787f331b8410c0bd414e
+                Module libkeyboard-layout.so with build-id ab1a94cd831bede5efa7419f2db7f63d15578835
+                Module libdeepin-system-monitor-plugin.so with build-id 6d57b48331f1aef3ead256470489d4253890de5b
+                Module libdeepin-screen-recorder-plugin.so with build-id e8eae9fec8e3513d33334ed0e462ed70a1d4fb0d
+                Module libddegrandsearch_dockplugin.so with build-id 13cdab2f336b7561f7501b9d1d5046c08b6058f5
+                Module libsecret-1.so.0 with build-id 758daf5cdff8dc84a202b3aeebe5724424400c09
+                Module libudisks2.so.0 with build-id ec2dd671a2f91787567963a35675ea98c4aabd37
+                Module libdfm-mount.so.0 with build-id 354943cf3e805b2fcfcf2497b54933abb1039389
+                Module libdde-disk-mount-plugin.so with build-id c213b0b569ffbf1f457c96773f442ba059bf64c1
+                Module libsound.so with build-id f8d016b34224a7df314d541dbfddf696a80da503
+                Module libpower.so with build-id e6100398331e051807b15d60394a204f7c92c1cb
+                Module libmedia.so with build-id e0becff8f901d5b3c83cf2f19110f9d75c0125af
+                Module libKF5NetworkManagerQt.so.6 with build-id 2af6b13dac2bb3fe39188eec2be7b91c9bccdb58
+                Module libdde-network-core.so.2 with build-id 6c1b89302d4acf76e019ec9d6e7852fd4c30ebf7
+                Module libdock-network-plugin.so with build-id 1a7b5608b1325a8feabf1d16004c8d4b5c858ca7
+                Module libdisplay.so with build-id 8b0aa07f7769028e9dd59f92e8da6aef88cb60a4
+                Module libbluetooth.so with build-id ab202f9fe7285acd361202486868960237998cb5
+                Module libpluginmanager.so with build-id 9e928487fbc2ee77a08df70cecaaed2f1319eb01
+                Module libwebpmux.so.3 with build-id 4a5c309f04f6598f5e7e3b6e4d9775c60edb9cc9
+                Module libwebpdemux.so.2 with build-id b14359a0cd843d8be8918b28472f20df4338a68b
+                Module libqwebp.so with build-id 84ef025e9134df63fca49531c17de118e32997ae
+                Module libqwbmp.so with build-id bb2dd201c8b7d2b0b709f6a18ec0f59b6d6bbe70
+                Module libdeflate.so.0 with build-id a795d018202d0e0116bd0cd9787e1a1b925e5ead
+                Module libjbig.so.0 with build-id d3a7418830a037cdde649ea664bbc2a133e1ab20
+                Module libwebp.so.6 with build-id b9d00ded4f320c04b4f764ca4978a9819a714173
+                Module libtiff.so.5 with build-id c5076a455ec876002b347c276b659e896bff5b28
+                Module libqtiff.so with build-id 53cd7df5c0c62850fd79d67a6de951327121fced
+                Module libqtga.so with build-id 90bbd7fe4b53a51a747899fbafb4f7ed1850df8f
+                Module liblcms2.so.2 with build-id 94e0834a1b57820a8bd0e568108d8e84b0c74715
+                Module libmng.so.1 with build-id ab93c39a4a1a3df00d173ac86fe0ddd392223876
+                Module libqmng.so with build-id b07d0047a9810d39fce820cef96ce6f526c6ec05
+                Module libjpeg.so.62 with build-id 03ebe5bd493bb6478030e41dcb0644d89911a691
+                Module libqjpeg.so with build-id e36e9b597db32bf4310a55e9f249d1a4eeb31212
+                Module libqico.so with build-id 864bd4a1198c568c0ad0ed3a08a2e749cce11490
+                Module libqicns.so with build-id f57c4d944120455cfb4eb14540bf1cbb45962148
+                Module libqgif.so with build-id a33d6763b8d89e8ce7293bffe3db27a753780573
+                Module libdsvg.so with build-id a3d276f7b1a1e4c49c52e971d115b1af77ab0a99
+                Module libdci.so with build-id c5a1e2f92e66c0fcc1cbda201c6bb4a6816f1f4b
+                Module libdsvgicon.so with build-id 19f3d4fa519a3e870e60a0b40d19670e951186a9
+                Module libxdgicon.so with build-id ce67bc58d1aac3874df0960a97e96c585c801156
+                Module libdtkbuiltin.so with build-id 16c62a6f420805aacbdc7604bf75fa92af4b82c5
+                Module libdtkdciicon.so with build-id c983cada9b7eb76a2a39a084b5da61c7f12e4ba0
+                Module libdtkiconproxy.so with build-id 93626f3a9143b188e482623fe11af8bb2dffc739
+                Module libdl.so.2 with build-id 18532eca2a2f2968ada3ab89f59f1bbbe8d8ade3
+                Module libxml2.so.2 with build-id 5c6187e1a764a894c442003331eab11df763cd0d
+                Module libtinfo.so.6 with build-id 3289c3180aca0f386b58f5c423b6f5f649bf4a06
+                Module libz3.so.4 with build-id a97bb366f5d6ca3af8822fcc1bbd282bddf7e617
+                Module libedit.so.2 with build-id ebe7bcd360f5cbc577a562157a377a436922ffc5
+                Module libvulkan.so.1 with build-id 6d975974030f17bd71683dcf490979973877bd6b
+                Module libdrm_nouveau.so.2 with build-id fe11f94b2ffe61a19680269228a8b4cb13071187
+                Module libdrm_amdgpu.so.1 with build-id eea77a3caf68530e193ab237ef6d7ef79e70b1b4
+                Module libelf.so.1 with build-id e61a5b48ca4e2a424da1ae27452a68e4d54870d9
+                Module libdrm_radeon.so.1 with build-id 29474cdeb7ec6d6fce9ad4c179fe1a0cb8e49acc
+                Module libsensors.so.5 with build-id 887ca227554f83ddcd8b869fd688ad24a9d817ee
+                Module libLLVM-13.so.1 with build-id 41ad0a7367370ce6c30c91f1c66d9ffcf872528c
+                Module vmwgfx_dri.so with build-id 5e72a8680fcecc47c4cc09b68f45d343b1b3383d
+                Module libdrm.so.2 with build-id a931378537257e6f36777f92b20034636b11e677
+                Module libglapi.so.0 with build-id 6f02d5ffa2655e2c8b77c2ae887acce1a312346e
+                Module libxcb-glx.so.0 with build-id f100dc6e3efbc067b3a6beaaeeb24a82f439d16b
+                Module libqxcb-glx-integration.so with build-id 79c727a0e0c0c5102bd967e1fe261092c05ddd0e
+                Module libchameleon.so with build-id f5d829367e23054a64a00e64d7d01dc2c98ef5c0
+                Module libFcitx5Qt5DBusAddons.so.1 with build-id 5e16fc2df96345dd2059d265dda2abeff883f50d
+                Module libfcitx5platforminputcontextplugin.so with build-id 750c15b66bdcea7e06da77cebb0cce44fcd563c9
+                Module libQt5Xdg.so.3 with build-id c60bec8b0c8104e60fac6b660f485eaf59c65bce
+                Module libqdeepin.so with build-id 63db0129c424593015ffae3416ff7ead0b586be8
+                Module libuuid.so.1 with build-id 886bca0f77e8f283478a2a906031f63b7a33b15e
+                Module libexpat.so.1 with build-id 90b86287d5186943ab4c09816e92d77c9f09bb8c
+                Module libEGL.so.1 with build-id 5053448607dfe0088c2e16f9c0fcd4f4f1b46a8f
+                Module libxkbcommon.so.0 with build-id 59f3b387a17c6fd854b3e5ceaef6fe5fdcc839af
+                Module libxkbcommon-x11.so.0 with build-id e81ebbc06157081c23bddab6d6f3c11e9b4c5baa
+                Module libICE.so.6 with build-id 519f0b7c342161650bf430ba579c06135d4b703d
+                Module libSM.so.6 with build-id c82ee93aab981963bc24381f8165c543baa53625
+                Module libxcb-xinput.so.0 with build-id 407bef9657ecbbbecef323dd73023befed7f5cc5
+                Module libxcb-xkb.so.1 with build-id 0b8bf4a5bb8e0ac198fc74abd1c0a4a0d6eee938
+                Module libxcb-xinerama.so.0 with build-id bd709c3eb673e15c22158e18f4a7f641ec0d87ce
+                Module libxcb-sync.so.1 with build-id bc23cb1820a8ed8df052040c62ef10378c57c7cc
+                Module libxcb-render.so.0 with build-id c386af17a9c1a06969c8db6bf15e58a77661c889
+                Module libxcb-render-util.so.0 with build-id 4dc5ec4023ded97e0b28d42d2d1eb3eb493d532d
+                Module libxcb-randr.so.0 with build-id dc695e494b794619fab6094d5e285b7316c5583d
+                Module libxcb-keysyms.so.1 with build-id c036a2d535538f9b8ba361bfed00bf099cd6b2f4
+                Module libfontconfig.so.1 with build-id 7b7071742751d168e357ca1fa56c939988e3ce06
+                Module libxcb-damage.so.0 with build-id c4314241a448b8e1d99644c8279fd70714156df3
+                Module libxcb-shape.so.0 with build-id dc7053949092c77a781355fb5e9489c97aa0cc9b
+                Module libxcb-xfixes.so.0 with build-id 133998ddbe9ca6c7d5edd87a9aeb7e113c0db1c1
+                Module libxcb-icccm.so.4 with build-id 5931bc3e6e885fc9dc8a9cdd433a41f996f9e0dc
+                Module libQt5XcbQpa.so.5 with build-id f082f8a2c00a62ad9e5ad14efe718abc117b4ce7
+                Module libdxcb.so with build-id 1f4cdfbb4dc416987fa9e1bc100140df0678b9c8
+                Module libdconfsettings.so with build-id 4d21075bb86d6f1fdd4d6a367bc2f6259c28f246
+                Module libbrotlicommon.so.1 with build-id 427151d2a00a3e6c4994b768acc66143b01d4157
+                Module libresolv.so.2 with build-id f410dae9c39200fe419bc21dea901b8a2ada0a80
+                Module libkeyutils.so.1 with build-id 873a2c31dc3f6869084aa614be4bc1dca77b87e2
+                Module libbrotlidec.so.1 with build-id 52250cac066eab1d1813cc0a7441e16200e67029
+                Module libmd.so.0 with build-id 4a352d1dca83e645c32138eebd33776304e3378b
+                Module libpcre2-8.so.0 with build-id 397342a8e5fb2e0c8e5f56071e9363d079a9a0fb
+                Module libblkid.so.1 with build-id ec52df06fbc3aaaec67d92781f01a21be958a8bd
+                Module libgpg-error.so.0 with build-id 3a76e3d777e374d728d7993850fbc404f0b39e91
+                Module libpthread.so.0 with build-id 54c8250ae10f9a0b48688f81d0e53b75bb6ce2c2
+                Module libkrb5support.so.0 with build-id 6c5af4eeb3dfeb7925854f1e4754a95352a6338d
+                Module libcom_err.so.2 with build-id 741d040032b752157a96f2b64470f332a46f7502
+                Module libk5crypto.so.3 with build-id 564e8a25dac6980c9e52c17845601bacf5d768bb
+                Module libkrb5.so.3 with build-id c8a0a66c1b78c95a3ff2a3ddf6cc4a690713550c
+                Module libicudata.so.71 with build-id f3a787e721223aa27a1274572354d4ee61aa3508
+                Module libgraphite2.so.3 with build-id 5b00ca1eda239ea043d7eae3b0fd4481560a907e
+                Module libfreetype.so.6 with build-id 20b13564e77642a3e79499c6c81fd43eebfae30e
+                Module libGLX.so.0 with build-id 9e9277da8643b2914307830e0752eb3d588cd263
+                Module libGLdispatch.so.0 with build-id 3500427ebb88820ba2c698984175edf0ada675f0
+                Module libbsd.so.0 with build-id c6e0dc160100ce8925d8af56e38560071cd51acc
+                Module libselinux.so.1 with build-id 6f61c92514549b21164090db11d23bf5cd941536
+                Module libmount.so.1 with build-id afaaf17841e60e4fb40a537e083bf5dd55e710ab
+                Module libgmodule-2.0.so.0 with build-id f93aa9381306bfd9e4e4a1d6c33824664f58c87c
+                Module libgcrypt.so.20 with build-id 6ec10b25f79e85a352373ea1a40c83edb769369e
+                Module libcap.so.2 with build-id 0e8ce6b785d99f5b3c1a8f493ef161b695a98bc1
+                Module liblz4.so.1 with build-id 61cdb4369105addb4f503b4374e64c1913c521a0
+                Module liblzma.so.5 with build-id 8736b9608cb07b02f35d8b25291a9755e7119a84
+                Module libffi.so.8 with build-id 35f8194322277d5b290ae7bfe5f4e088f4d27196
+                Module libpcre.so.3 with build-id 665f1b80589ca7b4d7f106afafd6be3b3e17706b
+                Module libX11-xcb.so.1 with build-id c11041bdda057629cf4e3f9425cd9fc385295a6b
+                Module libgssapi_krb5.so.2 with build-id a769ef4daa744dc1605b5ce856536378ef3c12cf
+                Module libzstd.so.1 with build-id bd00c58a6cad12a98df377e9def06d22403b403b
+                Module libpcre2-16.so.0 with build-id a13e4d0256486c876eb7fc1975fb9200e1fb2b9c
+                Module libicuuc.so.71 with build-id b3fef0aab2c5c8239b9a497849025cc247a501b1
+                Module libicui18n.so.71 with build-id 963ba1f39815dfbcd81a19c7d0eda98d2a7d23b1
+                Module libdouble-conversion.so.3 with build-id 681ba4bebeb704fddf36d1cb31dcd7cc9ddeabc0
+                Module libmd4c.so.0 with build-id efbe10b5e1f0e7df7def54e527f4f66d1bb83841
+                Module libharfbuzz.so.0 with build-id 2d95a152446f9b694011a038afe4b2550d3fd2d1
+                Module libpng16.so.16 with build-id c39b23197032e4428dbb95d5079153caa15b7673
+                Module libGL.so.1 with build-id 478a7bf2c24882929de48377881eac110317e596
+                Module libXfixes.so.3 with build-id 24ade8179250a0962c8a6cfa47377ec4937d0fd9
+                Module libXrender.so.1 with build-id d1bc9b5d68cd396038ac6f2078b9db3868b4736c
+                Module libXdmcp.so.6 with build-id d1caeedf4deb18d6c892b98e1430318cd6ad9550
+                Module libXau.so.6 with build-id ed4e2dd4f57cfa2bc92aa38d505ecd2d21df2cf4
+                Module libxcb-shm.so.0 with build-id fcfe9275112190b18df7603fb79cc04c00bae522
+                Module libgobject-2.0.so.0 with build-id a3463eeb13525441797ecd72dc15094104d30164
+                Module libgio-2.0.so.0 with build-id ae9da40ddc53964f327f3458a72ac8610d72e9c4
+                Module libdbus-1.so.3 with build-id 0dc01467cf8ba7c437d33fa594c250976bf9776c
+                Module libsystemd.so.0 with build-id 00faebdf19da1aafe689cbe11913f10513499f5d
+                Metadata for module libsystemd.so.0 owned by FDO found: {
+                        "type" : "deb",
+                        "os" : "debian",
+                        "name" : "systemd",
+                        "architecture" : "amd64",
+                        "version" : "250.4.2-deepin2+rb2",
+                        "debugInfoUrl" : "https://debuginfod.debian.net"
+                }
+                
+                Module libQt5Xml.so.5 with build-id 41ed743a14b3413923f1b419b301609dfa4c9fb6
+                Module libwayland-client.so.0 with build-id 03e5c4219adaee7f7943089b1d427c1e237852c4
+                Module libz.so.1 with build-id 84816ada40b297e7dd0e6c5f60cb904d5c56820c
+                Module libgomp.so.1 with build-id c958e4415297a55a87960ace1cdc24409e87f4e7
+                Module libmvec.so.1 with build-id b0b67e7c0629399c0bf97f239967de156e371974
+                Module libglib-2.0.so.0 with build-id c977650c49cfd5801d622ed831c442253e2ce70a
+                Module libQt5XdgIconLoader.so.3 with build-id ebf86cff1e590014b73a85b7a22738cdfe474b5c
+                Module ld-linux-x86-64.so.2 with build-id eb3f4e943e2b40740840b36d87f5e46d7ec30fb9
+                Module libm.so.6 with build-id aba7049b85ee7911ff2c0dc3dc3fcdcbdf97908a
+                Module libxcb-util.so.1 with build-id fd55c705d0cfc5f126aac254c48215139f744c69
+                Module libXi.so.6 with build-id a0f734bea0960f5b7cebdcf1ce156147bc68eac4
+                Module libstartup-notification-1.so.0 with build-id c6877b65faf1313ba44dff7b93e2d34f93ae34d3
+                Module libQt5PrintSupport.so.5 with build-id 0cb4e2e3f1347f7649f0ac2ef101b6006aa666da
+                Module libQt5Network.so.5 with build-id 3cf95554e7cf2bf0b2b212c4203b7cf1da31284e
+                Module libc.so.6 with build-id de81e39dc865f6a7744d82e6e7593adee0072d9c
+                Module libgcc_s.so.1 with build-id 03a2dc383e38529fd73b2fd248177b62b7925fce
+                Module libstdc++.so.6 with build-id c12ccbd638ca88bb3a758db4688b620f89d66ec9
+                Module libQt5Core.so.5 with build-id ad67d611602f3ad191386cb68182b38ce360b702
+                Module libQt5Gui.so.5 with build-id 3256662e800a924bb762cfde8c0a4a663f20caee
+                Module libQt5Widgets.so.5 with build-id 7d6eec1e304258d5309375505ecd3f1c5d05671b
+                Module libXcursor.so.1 with build-id 734b33d98ceea6d0421e9bd20a1fd60bec1aa067
+                Module libXext.so.6 with build-id febc3eae0ad355e7dc7972af432656b5b6fe9547
+                Module libdbusmenu-qt5.so.2 with build-id e5d4f829d1e24000511e75a0639217cb7e6b3029
+                Module libX11.so.6 with build-id 3e695d0416ba2f09e8b22c3d3f32f0516d02db16
+                Module libXtst.so.6 with build-id b4e11cc6913ed8be5c8a3f6c517e8185d8758af9
+                Module libxcb-composite.so.0 with build-id 3f8e992faefcdc62ff147a3c181c6d6019ab9478
+                Module libxcb.so.1 with build-id c77fd94eb3c7f24b94586ce002140f413b16ca6a
+                Module libxcb-ewmh.so.2 with build-id 38cb34bad3e134c1e55976b9b137a65dc06a7f48
+                Module libxcb-image.so.0 with build-id 60713c152ecd86a323dd72f48fa475ec7349a9a3
+                Module libgsettings-qt.so.1 with build-id 5a1afdd4677b20a63cced5392dcb6d637d4486ef
+                Module libQt5DBus.so.5 with build-id 65e55500183b8010e049beb638f58bcac6cb852a
+                Module libdtkcore.so.5 with build-id 61d01e639231629117088b80299d1967fe17406a
+                Module libDWaylandClient.so.5 with build-id 63942ad1a81012789e5486b1c4de8bef19fba591
+                Module libQt5Svg.so.5 with build-id 28127e24d1acf94700f7468d8dcd5cb44f17cf9d
+                Module libQt5X11Extras.so.5 with build-id 6e38dc6279aee892827b6446a2a2bbb3046c4021
+                Module libdtkgui.so.5 with build-id 6f26b80f1c50fa2b66f061991a994455fb269f26
+                Module libdtkwidget.so.5 with build-id fe68222918eb14b6d24dae463cec1c75953eb3d7
+                Module dde-dock with build-id 7b3e89aba13cfacfb002fd6748a7102e4540947b
+                Stack trace of thread 4810:
+                #0  0x00007fe101ab3878 _ZN23QCoreApplicationPrivate23lockThreadPostEventListEP7QObject (libQt5Core.so.5 + 0x2b3878)
+                #1  0x00007fe101ab4e89 _ZN16QCoreApplication9postEventEP7QObjectP6QEventi (libQt5Core.so.5 + 0x2b4e89)
+                #2  0x00007fe0d029a7b8 _ZN15ShotStartPluginD1Ev (libshot-start-plugin.so + 0xc7b8)
+                #3  0x00007fe0d029a7f9 _ZN15ShotStartPluginD0Ev (libshot-start-plugin.so + 0xc7f9)
+                #4  0x00007fe101aa7461 n/a (libQt5Core.so.5 + 0x2a7461)
+                #5  0x00007fe101aab62d n/a (libQt5Core.so.5 + 0x2ab62d)
+                #6  0x00007fe101aa8b69 n/a (libQt5Core.so.5 + 0x2a8b69)
+                #7  0x00007fe101040497 __cxa_finalize (libc.so.6 + 0x40497)
+                #8  0x00007fe1018b0cc7 n/a (libQt5Core.so.5 + 0xb0cc7)
+                #9  0x00007fe10376faae n/a (ld-linux-x86-64.so.2 + 0x5aae)
+                #10 0x00007fe10103ffb5 n/a (libc.so.6 + 0x3ffb5)
+                #11 0x00007fe10104012a exit (libc.so.6 + 0x4012a)
+                #12 0x000055747b15f40c n/a (dde-dock + 0x12c40c)
+                #13 0x00007fe10103daa0 n/a (libc.so.6 + 0x3daa0)
+                #14 0x00007fe0d029a7d3 _ZN15ShotStartPluginD1Ev (libshot-start-plugin.so + 0xc7d3)
+                #15 0x00007fe0d029a81d _ZThn16_N15ShotStartPluginD0Ev (libshot-start-plugin.so + 0xc81d)
+                #16 0x00007fe0db990489 _ZN20DockPluginControllerD1Ev (libpluginmanager.so + 0x4c489)
+                #17 0x00007fe0db9907fd _ZN20DockPluginControllerD0Ev (libpluginmanager.so + 0x4c7fd)
+                #18 0x00007fe0db97964b _ZThn16_N13PluginManagerD0Ev (libpluginmanager.so + 0x3564b)
+                #19 0x000055747b176487 n/a (dde-dock + 0x143487)
+                #20 0x00007fe10103ffb5 n/a (libc.so.6 + 0x3ffb5)
+                #21 0x00007fe10104012a exit (libc.so.6 + 0x4012a)
+                #22 0x00007fe0fc2191f9 n/a (libQt5XcbQpa.so.5 + 0x401f9)
+                #23 0x00007fe0fc248523 n/a (libQt5XcbQpa.so.5 + 0x6f523)
+                #24 0x00007fe100f1cfab g_main_context_dispatch (libglib-2.0.so.0 + 0x53fab)
+                #25 0x00007fe100f1d258 n/a (libglib-2.0.so.0 + 0x54258)
+                #26 0x00007fe100f1d30f g_main_context_iteration (libglib-2.0.so.0 + 0x5430f)
+                #27 0x00007fe101b093b4 _ZN20QEventDispatcherGlib13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE (libQt5Core.so.5 + 0x3093b4)
+                #28 0x00007fe101ab032b _ZN10QEventLoop4execE6QFlagsINS_17ProcessEventsFlagEE (libQt5Core.so.5 + 0x2b032b)
+                #29 0x00007fe101ab8620 _ZN16QCoreApplication4execEv (libQt5Core.so.5 + 0x2b8620)
+                #30 0x000055747b0943a4 n/a (dde-dock + 0x613a4)
+                #31 0x00007fe10102920a n/a (libc.so.6 + 0x2920a)
+                #32 0x00007fe1010292bc __libc_start_main (libc.so.6 + 0x292bc)
+                #33 0x000055747b0985b1 n/a (dde-dock + 0x655b1)
+                
+                Stack trace of thread 4816:
+                #0  0x00007fe1010fe4af __poll (libc.so.6 + 0xfe4af)
+                #1  0x00007fe100f1d1ee n/a (libglib-2.0.so.0 + 0x541ee)
+                #2  0x00007fe100f1d30f g_main_context_iteration (libglib-2.0.so.0 + 0x5430f)
+                #3  0x00007fe100f1d361 n/a (libglib-2.0.so.0 + 0x54361)
+                #4  0x00007fe100f4753d n/a (libglib-2.0.so.0 + 0x7e53d)
+                #5  0x00007fe1010876ea n/a (libc.so.6 + 0x876ea)
+                #6  0x00007fe10110afbc n/a (libc.so.6 + 0x10afbc)
+                
+                Stack trace of thread 4819:
+                #0  0x00007fe1010fe4af __poll (libc.so.6 + 0xfe4af)
+                #1  0x00007fe100f1d1ee n/a (libglib-2.0.so.0 + 0x541ee)
+                #2  0x00007fe100f1d543 g_main_loop_run (libglib-2.0.so.0 + 0x54543)
+                #3  0x00007fe100d2eb66 n/a (libgio-2.0.so.0 + 0x121b66)
+                #4  0x00007fe100f4753d n/a (libglib-2.0.so.0 + 0x7e53d)
+                #5  0x00007fe1010876ea n/a (libc.so.6 + 0x876ea)
+                #6  0x00007fe10110afbc n/a (libc.so.6 + 0x10afbc)
+                
+                Stack trace of thread 4817:
+                #0  0x00007fe1010fe4af __poll (libc.so.6 + 0xfe4af)
+                #1  0x00007fe100f1d1ee n/a (libglib-2.0.so.0 + 0x541ee)
+                #2  0x00007fe100f1d30f g_main_context_iteration (libglib-2.0.so.0 + 0x5430f)
+                #3  0x00007fe0fdeef3bd n/a (libdconfsettings.so + 0xb3bd)
+                #4  0x00007fe100f4753d n/a (libglib-2.0.so.0 + 0x7e53d)
+                #5  0x00007fe1010876ea n/a (libc.so.6 + 0x876ea)
+                #6  0x00007fe10110afbc n/a (libc.so.6 + 0x10afbc)
+                ELF object binary architecture: AMD x86-64
+
+Failed to invoke gdb: 没有那个文件或目录
